@@ -20,19 +20,19 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="List.h">
+    <ClInclude Include="Include\List.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="Tree.h">
+    <ClInclude Include="Include\Tree.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="Graph.h">
+    <ClInclude Include="Include\Graph.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="Array.h">
+    <ClInclude Include="Include\Array.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="Sort.h">
+    <ClInclude Include="Include\Sort.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

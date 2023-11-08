@@ -22,11 +22,11 @@
     <ClCompile Include="demo.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Array.h" />
-    <ClInclude Include="Graph.h" />
-    <ClInclude Include="List.h" />
-    <ClInclude Include="Sort.h" />
-    <ClInclude Include="Tree.h" />
+    <ClInclude Include="Include\Array.h" />
+    <ClInclude Include="Include\Graph.h" />
+    <ClInclude Include="Include\List.h" />
+    <ClInclude Include="Include\Sort.h" />
+    <ClInclude Include="Include\Tree.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
