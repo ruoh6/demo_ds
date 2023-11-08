@@ -1,7 +1,9 @@
-#include "List.h"
-#include "graph.h"
-#include "Tree.h"
+#include "Include/List.h"
+#include "Include/Graph.h"
+#include "Include/Tree.h"
+#include "Include/Semaphore.h"
 
 int main() {
-	Tree::CSTree::test();
+	//Tree::CSTree::test();
+	PV::test();
 }
